@@ -1,4 +1,4 @@
-Reflection 1
+Reflection 1<br>
 Joy Chen<br>
 22881899<br>
 Stat 157<br> 
