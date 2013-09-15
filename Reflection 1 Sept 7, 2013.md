@@ -1,4 +1,3 @@
-Reflection 1<br>
 Joy Chen<br>
 22881899<br>
 Weekly Reflection<br>
