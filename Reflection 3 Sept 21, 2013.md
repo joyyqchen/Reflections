@@ -1,7 +1,7 @@
 Reflection Sept 21, 2013
 =============
-Joy Chen 
-22881899 
+Joy Chen <br>
+22881899 <br>
 Stat 157 Reflection: 09/21/2013 
 
 This week focused less on the software programs we were working with in previous weeks. I really enjoyed listening to
