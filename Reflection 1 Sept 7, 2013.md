@@ -1,7 +1,9 @@
-Joy Chen<br>
-22881899<br>
-Weekly Reflection<br>
-September 7, 2013<br>
+Reflection September 7, 2013
+=============
+Joy Chen <br>
+22881899 <br>
+Stat 157 Reflection: 09/7/2013 
+<br><br>
 <br>
 This week, the most challenging road block was the initial learning curve required to familiarize myself with the
 dozens of different software and blogging/chat programs we needed to download and use. It was a bit overwhelming trying
