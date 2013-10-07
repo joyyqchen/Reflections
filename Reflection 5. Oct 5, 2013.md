@@ -1,8 +1,8 @@
-Reflection October 1, 2013
+Reflection October 5, 2013
 =============
 Joy Chen<br> 
 22881899<br> 
-Stat 157 Reflection: 10/4/2013 <br>
+Stat 157 Reflection: 10/5/2013 <br>
 <br>
 It was great this week that we are actually getting an opportunity to use the tools we have been talking about in class through the assignment. However, there are a lot of things about this assignment that I feel like could use improvement. First, the way the assignment was thrown at us was not ideal. We were given this assignment with the assumption that we understand how to use the tools i.e. iPython Notbook to create the desired results. I feel very much like I'm teaching myself how iPython works before I can get to doing the actual assignment. I assumed the opposite, that we were going to learn the fundamentals of the programs first in class before we would start applying their uses. 
 <br><br>
