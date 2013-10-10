@@ -1,2 +1,6 @@
-Reflection 6. October 12, 2013
+Reflection October 12, 2013
 ===========
+Joy Chen<br>
+22881899<br>
+Stat 157 Reflection: 10/12/2013 
+<br><br>
